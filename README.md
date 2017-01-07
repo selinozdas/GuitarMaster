@@ -1,6 +1,6 @@
 # GuitarMaster
-We are planning to implement a version of well-known game Guitar Hero on
-FPGA board. Our version, Guitar Master, is being played by pressing buttons which are
+A version of well-known game Guitar Hero on FPGA board. 
+Our version, Guitar Master, is being played by pressing buttons which are
 synchronized according to music’s rhythm. In our project 10 bit music will be used and
 every 2 bit will be associated with one button. Those bit pairs will be represented by
 different colors(red, green, blue and white). Color boxes will flow through the screen
